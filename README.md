@@ -19,8 +19,7 @@ GenAI Lab – GitHub Models (Text Summarizer)
 7. Exported and organized the notebook inside this repository.
 
 ## Colab Notebook
-👉 **Add your Colab share link here**  
-(Share → Anyone with the link can view → Copy link)
+https://colab.research.google.com/drive/1vTGElNdLlmRw2gtCaG_u5D9tlgS4vIvz?usp=sharing
 
 ## Project Description
 This mini project takes any paragraph (Arabic or English) and returns a summary in exactly three short bullet points.  
